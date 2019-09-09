@@ -9,4 +9,4 @@
 9. 
 10. 
 11. 
-12. смерж master и develop
+12. смерж master и develop с помощью команды ||| git merge  next ||| 
